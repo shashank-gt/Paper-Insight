@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PaperInsight
 
 PaperInsight is a research paper understanding system that helps you quickly extract the most important insights from academic papers — without reading everything line by line.
@@ -109,6 +110,10 @@ Engineering Student | ML Enthusiast
 Then open:
 
 http://127.0.0.1:5000
+=======
+# Paper-Insight
+AI tool for summarizing and extracting insights from research papers using NLP and ML.
+>>>>>>> f12880dbd0f8b55a4c05b491cd16b67cb93b5991
 =======
 # Paper-Insight
 AI tool for summarizing and extracting insights from research papers using NLP and ML.

@@ -110,5 +110,5 @@ http://127.0.0.1:5000
 
 ## Author
 
-Built by Shashank H K  
+Shashank H K  
 Engineering Student

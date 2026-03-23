@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # PaperInsight
 
 PaperInsight is a research paper understanding system that helps you quickly extract the most important insights from academic papers — without reading everything line by line.
@@ -12,7 +10,6 @@ It turns complex research papers into a structured decision dashboard that shows
 -  Limitations & risks
 -  When to use / not use the research
 
----
 
 ##  Why I Built This
 
@@ -24,8 +21,6 @@ Reading research papers is time-consuming and mentally heavy — especially when
 - Should I use this paper for my project?
 
 PaperInsight solves that by automatically extracting structured insights using LLM-based reasoning and semantic retrieval.
-
----
 
 ##  Architecture Overview
 
@@ -48,7 +43,6 @@ PaperInsight follows a modular pipeline:
    - Enables semantic Q&A on the paper
 7. **Interactive Web Dashboard (Flask)**
 
----
 
 ##  Key Features
 
@@ -60,7 +54,6 @@ PaperInsight follows a modular pipeline:
 - Beginner-friendly explanation mode
 - Paper Q&A using embeddings
 
----
 
 ##  Tech Stack
 
@@ -71,7 +64,6 @@ PaperInsight follows a modular pipeline:
 - OpenAI / LLM integration
 - Chart.js (frontend visualization)
 
----
 
 ##  Project Structure
 
@@ -81,15 +73,10 @@ loaders/ → PDF / DOCX / TXT parsers
 web/ → Flask app + templates
 
 
----
 
 ##  How to Run Locally
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/rambaburavi/paperinsight.git
-cd paperinsight
+git clone https://github.com/shashank-gt/Paper-Insight.git
 
 2. Create a virtual environment:
 
@@ -100,21 +87,12 @@ venv\Scripts\activate  # Windows
 
 pip install -r requirements.txt
 
-
 4. Run the app:
 
 python -m web.app
 
-Built by Rambabu R
+Built by Shashank H K
 Engineering Student | ML Enthusiast
 Then open:
-
 http://127.0.0.1:5000
-=======
-# Paper-Insight
 AI tool for summarizing and extracting insights from research papers using NLP and ML.
->>>>>>> f12880dbd0f8b55a4c05b491cd16b67cb93b5991
-=======
-# Paper-Insight
-AI tool for summarizing and extracting insights from research papers using NLP and ML.
->>>>>>> f12880dbd0f8b55a4c05b491cd16b67cb93b5991
